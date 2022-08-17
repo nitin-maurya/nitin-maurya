@@ -3,5 +3,4 @@
 - :bowtie: Currently working in Threat Hunting & IR
 - 👀 I’m interested in Threat Hunting, Triage, Automation, Cloud Security, Hands-on Learning
 - 🌱 I’m currently learning Red Teaming, DF, Malware Analysis
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at <a href="https://www.linkedin.com/in/maurya-nittin/">LinkedIn</a>
