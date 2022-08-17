@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nitin-maurya
+- 👋 Hi, I’m Nitin Maurya (@nitin-maurya)
 - :electron: I am SOC Professional - a Blue Team Defender
 - :bowtie: Currently working in Threat Hunting & IR
 - 👀 I’m interested in Threat Hunting, Triage, Automation, Cloud Security, Hands-on Learning
